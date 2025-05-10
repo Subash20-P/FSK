@@ -83,9 +83,8 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-```
 ![fsk](https://github.com/user-attachments/assets/3fb74217-6659-4621-8991-8d6819dae17e)
+![WhatsApp Image 2025-05-10 at 23 05 45_3125c370](https://github.com/user-attachments/assets/49d35db6-a6f4-4e9f-85b4-eb7ea7df00d7)
 
-```
 # Results
 THUS THE FSK (Frequency Shift Keying) IS PERFORMED USING PHYTON
